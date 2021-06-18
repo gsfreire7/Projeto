@@ -23,6 +23,11 @@ namespace Projeto.Controllers
             return View();
         }
 
+        public IActionResult Gustavo()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

@@ -1,1 +1,2 @@
-temp: OK
+- name: Increment Semantic Version
+  uses: christian-draeger/increment-semantic-version@1.1.0
